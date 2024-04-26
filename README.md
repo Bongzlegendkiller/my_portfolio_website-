@@ -1,6 +1,6 @@
 # my_portfolio_website-
 
-This is a simple HTML template for a portfolio website, designed for use with Django and Bootstrap. It includes a biography section, user authentication buttons, and a profile picture. You can use this template as a starting point for creating your own portfolio website.
+This is a simple HTML template for a portfolio website, designed for use with Django, Css and js script . It has a home page, about me, education, my skills and a contact section with user authentication buttons, and a profile picture. You can use this template as a starting point for creating your own portfolio website.
 
 ## Features
 
